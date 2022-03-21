@@ -1,5 +1,7 @@
 This is a test file
 
-to check if git is working
-
 this is test
+
+including a line
+
+deleted one line
